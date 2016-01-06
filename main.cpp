@@ -7,12 +7,12 @@
 //
 
 #include <iostream>
-using namespace std;
+//using namespace std;
 
 //class SomeType{
 //protected:
 //    int number=10;
-    string name;
+//    string name;
 //    SomeType(int i,string&s):number(i),name(s){}
 //public:
 //    SomeType(string&s):SomeType(1,s){}
